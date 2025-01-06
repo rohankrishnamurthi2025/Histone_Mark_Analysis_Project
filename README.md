@@ -27,11 +27,11 @@ Lastly, I ran an intersection of each histone mark file with each transcription 
 - `Bash Scripts`: contains Bash scripts used to process and automate the transfer of files between the local system and Quest
 - `Python Scripts`: contains Python scripts used to process and run intersection of both histone mark and transcription factor files
 
-       -`histone_overlap_1.1.ipynb`: running intersections of histone mark files from replicate experiments of the same histone mark within the same cell line
+  -`histone_overlap_1.1.ipynb`: running intersections of histone mark files from replicate experiments of the same histone mark within the same cell line
 
-       -`intersection_1.1.ipynb`: 
+  -`intersection_1.1.ipynb`: 
 
-       -`tf_data_1.1.ipynb`:
+  -`tf_data_1.1.ipynb`:
   
 - `histone_data`: raw histone mark bed files for each replicate experiment
 - `histone_processed_data`: processed histone mark bed files within each cell line
