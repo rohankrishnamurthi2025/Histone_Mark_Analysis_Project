@@ -5,6 +5,7 @@ Mentors: Maalavika Pillai, Luís Amaral
 
 ### Objective:
 Aim: to test if specific histone marks are enriched in true peaks or spurious peaks
+
 Marks to test: 
 1.	Active transcription: H3K4me3, H3K27ac
 2.	Repressive: H3K27me3, H3K9me3
